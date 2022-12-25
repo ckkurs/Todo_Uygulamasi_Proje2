@@ -1,0 +1,16 @@
+D:\C#\Todo_Uygulaması_Proje2\bin\Debug\net5.0\Todo_Uygulaması_Proje2.exe
+D:\C#\Todo_Uygulaması_Proje2\bin\Debug\net5.0\Todo_Uygulaması_Proje2.deps.json
+D:\C#\Todo_Uygulaması_Proje2\bin\Debug\net5.0\Todo_Uygulaması_Proje2.runtimeconfig.json
+D:\C#\Todo_Uygulaması_Proje2\bin\Debug\net5.0\Todo_Uygulaması_Proje2.runtimeconfig.dev.json
+D:\C#\Todo_Uygulaması_Proje2\bin\Debug\net5.0\Todo_Uygulaması_Proje2.dll
+D:\C#\Todo_Uygulaması_Proje2\bin\Debug\net5.0\Todo_Uygulaması_Proje2.pdb
+D:\C#\Todo_Uygulaması_Proje2\obj\Debug\net5.0\Todo_Uygulaması_Proje2.csproj.AssemblyReference.cache
+D:\C#\Todo_Uygulaması_Proje2\obj\Debug\net5.0\Todo_Uygulaması_Proje2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Todo_Uygulaması_Proje2\obj\Debug\net5.0\Todo_Uygulaması_Proje2.AssemblyInfoInputs.cache
+D:\C#\Todo_Uygulaması_Proje2\obj\Debug\net5.0\Todo_Uygulaması_Proje2.AssemblyInfo.cs
+D:\C#\Todo_Uygulaması_Proje2\obj\Debug\net5.0\Todo_Uygulaması_Proje2.csproj.CoreCompileInputs.cache
+D:\C#\Todo_Uygulaması_Proje2\obj\Debug\net5.0\Todo_Uygulaması_Proje2.dll
+D:\C#\Todo_Uygulaması_Proje2\obj\Debug\net5.0\refint\Todo_Uygulaması_Proje2.dll
+D:\C#\Todo_Uygulaması_Proje2\obj\Debug\net5.0\Todo_Uygulaması_Proje2.pdb
+D:\C#\Todo_Uygulaması_Proje2\obj\Debug\net5.0\Todo_Uygulaması_Proje2.genruntimeconfig.cache
+D:\C#\Todo_Uygulaması_Proje2\obj\Debug\net5.0\ref\Todo_Uygulaması_Proje2.dll
